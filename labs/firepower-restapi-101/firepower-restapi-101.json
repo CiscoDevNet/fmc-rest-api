@@ -26,8 +26,8 @@
         "title": "2.md"
     }],
     "related": [{
-        "labId": "sample-lab-2",
-        "title": "Sample Lab 2 - Sample lab to link to"
+        "labId": "fmc-restapi-102",
+        "title": "FMC rest api Lab 2 - Sample lab to link to"
     }, {
         "labId": "sample-lab-3",
         "title": "Sample Lab 3 - Sample lab to link to"
