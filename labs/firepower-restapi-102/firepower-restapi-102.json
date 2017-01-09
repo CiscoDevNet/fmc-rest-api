@@ -35,5 +35,6 @@
     "authors": [{
         "name": "Krishan Veer",
         "email": "veer@cisco.com"
-    }]
+    }],
+    "byod": true
 }
