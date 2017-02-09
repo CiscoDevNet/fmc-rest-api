@@ -1,6 +1,6 @@
 {
-    "labId": "firepower-restapi-101",
-    "title": "FMC-REST-API-101",
+    "labId": "firepower-restapi-106",
+    "title": "FMC-REST-API-106",
     "slug": "Firepower Management Center (FMC) REST APIs helps to manage and monitor the Firepower Threat Defense (FTD) and Legacy Firepower devices.",
     "time": "15",
     "tags": [{
