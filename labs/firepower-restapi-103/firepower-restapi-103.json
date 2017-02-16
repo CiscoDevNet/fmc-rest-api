@@ -1,6 +1,6 @@
 {
-    "labId": "firepower-restapi-103: Add/register a device to Firepower Management Center (FMC)",
-    "title": "FMC-REST-API-103",
+    "labId": "firepower-restapi-103",
+    "title": "FMC-REST-API-103: Add/register a device to Firepower Management Center (FMC)",
     "slug": "Firepower Management Center (FMC) REST APIs helps to manage and monitor the Firepower Threat Defense (FTD) and Legacy Firepower devices.",
     "time": "20",
     "tags": [{
@@ -10,6 +10,9 @@
     },
     {
         "title": "FMC"
+    },
+    {
+        "title": "security"
     },
     {
         "title": "Firewalls"
