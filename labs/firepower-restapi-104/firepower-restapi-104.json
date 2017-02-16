@@ -1,7 +1,7 @@
 {
     "labId": "firepower-restapi-104",
     "title": "FMC-REST-API-104: FMC REST api REQUEST AND RESPONSE structures and error codes",
-    "slug": "Firepower Management Center (FMC) REST APIs helps to manage and monitor the Firepower Threat Defense (FTD) and Legacy Firepower devices.",
+    "slug": "The purpose of this learning lab is to build basic understanding on the FMC REST API request & response structures and understand error codes.",
     "time": "15",
     "tags": [{
         "title": "Firepower Management Center"

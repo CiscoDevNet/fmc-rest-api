@@ -1,8 +1,8 @@
 {
     "labId": "firepower-restapi-107",
     "title": "FMC-REST-API-107: Firewall Policy fundamentals and Policy CRUD",
-    "slug": "Firepower Management Center (FMC) REST APIs helps to manage and monitor the Firepower Threat Defense (FTD) and Legacy Firepower devices.",
-    "time": "15",
+    "slug": " The purpose of this learning lab is to understand the basics of the FMC policy and learn CRUD operations on access control policy using REST API",
+    "time": "30",
     "tags": [{
         "title": "Firepower Management Center"
     }, {
