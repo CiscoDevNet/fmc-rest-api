@@ -1,6 +1,6 @@
 {
     "labId": "firepower-restapi-111",
-    "title": "FMC-REST-API-101: Cisco Threat Intelligence Director (TID) APIs and their usage via API Explorer and Postman",
+    "title": "FMC-REST-API-111: Cisco Threat Intelligence Director (TID) APIs and their usage via API Explorer and Postman",
     "slug": "This lab gives basic understanding of the available FMC TID APIs and their usage",
     "time": "30",
     "tags": [{
