@@ -1,0 +1,54 @@
+{
+    "labId": "firepower-estreamer-splunk",
+    "title": "Firepower eStreamer and Splunk: Learn to create custom Splunk App that visualize threat data using Firepower Management Center (FMC) eStreamer API",
+    "slug": "This lab gives intoduction to Firepower Management Center (FMC) eStreamer APIs. You can learn to create a Splunk application that visualizes threat data provided by the Firepower Management Center (FMC) using the eStreamer API",
+    "time": "45",
+    "tags": [{
+        "title": "Firepower Management Center"
+    }, {
+        "title": "Firepower"
+    },
+    {
+        "title": "FMC"
+    },
+    {
+        "title": "Security"
+    },
+    {
+        "title": "Firewalls"
+    },{
+        "title": "FTD"
+    }, {
+        "title": "NGFW"
+    }, {
+        "title": "NGIPS"
+    }, {
+        "title": "Splunk"
+    }, {
+        "title": "Firepower Threat Defence"
+    }, {
+        "title": "estreamer"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }, {
+        "title": "4.md"
+    }, {
+        "title": "5.md"
+    }],
+   "related": [{
+        "labId": "firepower-restapi-110",
+        "title": "FMC rest api Lab 110"
+    }],
+    "authors": [{
+        "name": "Krishan Veer",
+        "email": "veer@cisco.com",
+        "name": "Greg Berson",
+        "email": "gberson@cisco.com"
+    }],
+    "byod": true
+}
