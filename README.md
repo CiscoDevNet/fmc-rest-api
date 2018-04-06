@@ -27,7 +27,7 @@ To create and publish a new lab, take the following steps:
 - Create a JSON file with the same name as the `labs/`_folder_ name.
 - Create markdown files named 1.md, 2.md, and so on; refer to those files in the `labs/`_folder_ JSON file.
 - Ensure that the JSON file contains appropriate page titles and file references.
-- Send a pull request to get the files commited and merged to `master` by a DevNet reviewer.
+- Send a pull request to get the files committed and merged to `master` by a DevNet reviewer.
 
 A DevNet reviewer then creates a release on the repository with the latest `master` and publishes through the admin interface.
 
