@@ -30,7 +30,7 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC REST API",
+        "title": "FMC REST API 101",
         "file": "1.md",
     }, {
         "title": "FMC REST API Explorer",
