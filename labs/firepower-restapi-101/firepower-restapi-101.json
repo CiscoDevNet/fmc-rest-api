@@ -30,9 +30,11 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "1.md"
+        "title": "FMC REST API",
+        "file": "1.md",
     }, {
-        "title": "2.md"
+        "title": "FMC REST API Explorer",
+        "file": "2.md"
     }],
    "related": [{
         "labId": "firepower-restapi-102",
