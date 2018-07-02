@@ -31,7 +31,7 @@
     }],
     "files": [{
         "file": "1.md",
-        "title": "FMC - REST - API - 105"
+        "title": "FMC REST API 105"
     }, {
         "file": "2.md",
         "title": "Problem: REST operation fails with HTTP 403"
