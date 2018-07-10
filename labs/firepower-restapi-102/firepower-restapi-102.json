@@ -25,12 +25,12 @@
     }, {
         "title": "ASA with FP services"
     }, {
-        "title": "Firepower Threat Defence"
+        "title": "Firepower Threat Defense"
     }, {
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC - REST - API - 102",
+        "title": "FMC REST API 102",
         "file": "1.md"
     }, {
         "title": "Refreshing an Authentication Token for FMC REST API",
@@ -38,10 +38,10 @@
     }],
     "related": [{
         "labId": "firepower-restapi-103",
-        "title": "FMC rest api Lab 3"
+        "title": "FMC REST API Lab 3"
     }, {
         "labId": "firepower-restapi-101",
-        "title": "FMC rest api Lab 1"
+        "title": "FMC REST API Lab 1"
     }],
     "authors": [{
         "name": "Krishan Veer",
