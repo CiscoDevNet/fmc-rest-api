@@ -1,6 +1,6 @@
 {
     "labId": "firepower-restapi-104",
-    "title": "FMC-REST-API-104: FMC REST API REQUEST, RESPONSE structures and error codes",
+    "title": "FMC-REST-API-104: FMC REST API request and response structures and error codes",
     "slug": "The purpose of this learning lab is to build basic understanding on the FMC REST API request & response structures and understand error codes.",
     "time": "15",
     "tags": [{
@@ -25,7 +25,7 @@
     }, {
         "title": "ASA with FP services"
     }, {
-        "title": "Firepower Threat Defence"
+        "title": "Firepower Threat Defense"
     }, {
         "title": "Cisco Security REST API"
     }],
@@ -38,7 +38,7 @@
     }],
     "related": [{
         "labId": "fmc-restapi-102",
-        "title": "FMC - REST - API - 102"
+        "title": "FMC REST API 102"
     }],
     "authors": [{
         "name": "Krishan Veer",

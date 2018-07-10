@@ -25,7 +25,7 @@
     }, {
         "title": "ASA with FP services"
     }, {
-        "title": "Firepower Threat Defence"
+        "title": "Firepower Threat Defense"
     }, {
         "title": "Cisco Security REST API"
     }],
@@ -38,7 +38,7 @@
     }],
     "related": [{
         "labId": "firepower-restapi-104",
-        "title": "FMC - REST - API - 104"
+        "title": "FMC REST API 104"
     }],
     "authors": [{
         "name": "Krishan Veer",
