@@ -1,7 +1,7 @@
 {
     "labId": "firepower-restapi-101",
-    "title": "FMC-REST-API-101: Introduction to Firepower Management Center (FMC) API",
-    "slug": "This lab gives intoduction to Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC",
+    "title": "Exploring Firepower Management Center (FMC) REST APIs",
+    "slug": "This lab introduces Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC",
     "time": "15",
     "tags": [{
         "title": "Firepower Management Center"
@@ -30,10 +30,10 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC REST API 101",
+        "title": "Exploring Firepower Management Center (FMC) REST APIs",
         "file": "1.md",
     }, {
-        "title": "FMC REST API Explorer",
+        "title": "FMC API Explorer",
         "file": "2.md"
     }],
    "related": [{
