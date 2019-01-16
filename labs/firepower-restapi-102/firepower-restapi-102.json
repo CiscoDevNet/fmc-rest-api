@@ -1,7 +1,7 @@
 {
     "labId": "firepower-restapi-102",
-    "title": "FMC-REST-API-102: FMC REST API authentication and access",
-    "slug": "The purpose of this learning lab is to understand the basics of the FMC token-based authentication",
+    "title": "Firepower Management Center (FMC) REST API token-based authentication",
+    "slug": "This learning lab teaches the basics of the FMC token-based authentication",
     "time": "15",
     "tags": [{
         "title": "Firepower Management Center"
@@ -30,11 +30,14 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC REST API 102",
+        "title": "# Firepower Management Center (FMC) REST API authentication tokens",
         "file": "1.md"
     }, {
-        "title": "Refreshing an Authentication Token for FMC REST API",
+        "title": "Requesting a FMC REST API authentication token with Postman",
         "file": "2.md"
+    }, {
+        "title": "Refreshing a FMC REST API authentication token",
+        "file": "3.md"
     }],
     "related": [{
         "labId": "firepower-restapi-103",
