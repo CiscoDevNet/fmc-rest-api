@@ -1,7 +1,7 @@
 {
     "labId": "firepower-restapi-103",
-    "title": "FMC-REST-API-103: Add/register a device to Firepower Management Center (FMC)",
-    "slug": "The purpose of this learning lab is to understand the basics to add/register devices to FMC using API",
+    "title": "Firewall devices and sensors and the Firepower Management Center (FMC)",
+    "slug": "Learn how to add the FMC to firewall devices or sensors and register the device to the FMC, enabling the device or sensor to use the FMC.",
     "time": "20",
     "tags": [{
         "title": "Firepower Management Center"
@@ -30,11 +30,17 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC REST API 103: Add/register a device to Firepower Management Center (FMC)",
+        "title": "Firewall devices and sensors and the Firepower Management Center (FMC)",
         "file": "1.md"
     }, {
-        "title": "Adding a device through FMC REST API",
+        "title": "Adding FMC on the device or sensor",
         "file": "2.md"
+    }, {
+        "title": "Registering a device through FMC UI",
+        "file": "3.md",
+    }, {
+      "title": "Registering a device with FMC REST API",
+      "file": "4.md",
     }],
     "related": [{
         "labId": "fmc-restapi-102",
