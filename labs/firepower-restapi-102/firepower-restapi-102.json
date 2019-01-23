@@ -30,7 +30,7 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "# Firepower Management Center (FMC) REST API authentication tokens",
+        "title": "Firepower Management Center (FMC) REST API authentication tokens",
         "file": "1.md"
     }, {
         "title": "Requesting a FMC REST API authentication token with Postman",
