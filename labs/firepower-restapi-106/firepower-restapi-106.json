@@ -1,44 +1,36 @@
 {
     "labId": "firepower-restapi-106",
-    "title": "FMC-REST-API-106: FMC object(s) and CRUD operations using REST API",
-    "slug": "The purpose of this learning lab is to understand the basics of the FMC object(s) and CRUD operations using REST API",
+    "title": "FMC objects and CRUD operations",
+    "slug": "This Learning Lab provides an overview of how to interact with FMC objects and run Create, Read, Update, and Delete (CRUD) operations with the FMC REST API.",
     "time": "30",
-    "tags": [{
-        "title": "Firepower Management Center"
-    }, {
-        "title": "Firepower"
-    },
-    {
-        "title": "FMC"
-    },
-    {
-        "title": "Security"
-    },
-    {
-        "title": "Firewalls"
-    },{
-        "title": "FTD"
-    }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
-    }, {
-        "title": "ASA with FP services"
-    }, {
-        "title": "Firepower Threat Defence"
-    }, {
-        "title": "Cisco Security REST API"
-    }],
-    "files": [{
-        "file": "1.md",
-        "title": "FMC REST API 106"
-    }, {
-        "file": "2.md",
-        "title": "FMC REST API Objects"
-    }],
+    "tags": [
+       {"title": "Firepower Management Center"},
+       {"title": "Firepower"},
+       {"title": "FMC" },
+       {"title": "Security"},
+       {"title": "Firewalls"},
+       {"title": "FTD"},
+       {"title": "NGFW"},
+       {"title": "NGIPS"},
+       {"title": "ASA with FP services"},
+       {"title": "Firepower Threat Defence"},
+       {"title": "Cisco Security REST API"}
+     ],
+    "files": [
+      {"file": "0.md",
+      "title": "Introduction"},
+      {"file": "1.md",
+      "title": "Firepower Management Center (FMC) objects"},
+      {"file": "2.md",
+      "title": "The FMC network object"},
+      {"file": "3.md",
+      "title": "Retrieving a network object with a GET operation"}
+      {"file": "4.md",
+      "title": "Adding a network object with a POST operation"}
+    ],
     "related": [{
         "labId": "fmc-restapi-102",
-        "title": "FMC - REST - API - 102"
+        "title": "Firepower Management Center (FMC) REST API authentication tokens"
     }],
     "authors": [{
         "name": "Krishan Veer",
