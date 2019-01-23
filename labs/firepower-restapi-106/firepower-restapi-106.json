@@ -24,7 +24,7 @@
       {"file": "2.md",
       "title": "The FMC network object"},
       {"file": "3.md",
-      "title": "Retrieving a network object with a GET operation"}
+      "title": "Retrieving a network object with a GET operation"},
       {"file": "4.md",
       "title": "Adding a network object with a POST operation"}
     ],
@@ -37,4 +37,4 @@
         "email": "veer@cisco.com"
     }],
     "byod": true
-}
+  }

@@ -1,48 +1,34 @@
 {
-    "labId": "firepower-restapi-101",
-    "title": "Exploring Firepower Management Center (FMC) REST APIs",
-    "slug": "This lab introduces Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC",
-    "time": "15",
-    "tags": [{
-        "title": "Firepower Management Center"
-    }, {
-        "title": "Firepower"
-    },
-    {
-        "title": "FMC"
-    },
-    {
-        "title": "Security"
-    },
-    {
-        "title": "Firewalls"
-    },{
-        "title": "FTD"
-    }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
-    }, {
-        "title": "ASA with FP services"
-    }, {
-        "title": "Firepower Threat Defence"
-    }, {
-        "title": "Cisco Security REST API"
-    }],
-    "files": [{
-        "title": "Exploring Firepower Management Center (FMC) REST APIs",
-        "file": "1.md",
-    }, {
-        "title": "FMC API Explorer",
-        "file": "2.md"
-    }],
-   "related": [{
-        "labId": "firepower-restapi-102",
-        "title": "FMC rest api Lab 2"
-    }],
-    "authors": [{
-        "name": "Krishan Veer",
-        "email": "veer@cisco.com"
-    }],
-    "byod": true
+	"labId": "firepower-restapi-101",
+	"title": "Exploring Firepower Management Center (FMC) REST APIs",
+	"slug": "This lab introduces Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC",
+	"time": "15",
+	"tags": [
+    {"title": "Firepower Management Center"},
+    {"title": "Firepower"},
+    {"title": "FMC"},
+    {"title": "Security"},
+    {"title": "Firewalls"},
+    {"title": "FTD"},
+    {"title": "NGFW"},
+    {"title": "NGIPS"},
+    {"title": "ASA with FP services"},
+    {"title": "Firepower Threat Defence"},
+    {"title": "Cisco Security REST API"}
+  ],
+	"files": [
+    {"title": "Exploring Firepower Management Center (FMC) REST APIs",
+      "file": "1.md"},
+    {"title": "FMC API Explorer",
+      "file": "2.md"}
+    ],
+	"related": [
+    {"labId": "firepower-restapi-102",
+      "title": "FMC rest api Lab 2"}
+    ],
+	"authors": [{
+    "name": "Krishan Veer",
+    "email": "veer@cisco.com"
+	}],
+	"byod": true
 }
