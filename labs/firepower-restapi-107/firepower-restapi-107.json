@@ -1,44 +1,33 @@
 {
     "labId": "firepower-restapi-107",
-    "title": "FMC-REST-API-107: Firewall Policy fundamentals and Policy CRUD",
-    "slug": " The purpose of this learning lab is to understand the basics of the FMC policy and learn CRUD operations on access control policy using REST API",
+    "title": "Firewall Management Center (FMC) access control policies",
+    "slug": "This Learning Lab teaches a basic understanding of managing FMC access control policies with the REST API.",
     "time": "30",
-    "tags": [{
-        "title": "Firepower Management Center"
-    }, {
-        "title": "Firepower"
-    },
-    {
-        "title": "FMC"
-    },
-    {
-        "title": "Security"
-    },
-    {
-        "title": "Firewalls"
-    },{
-        "title": "FTD"
-    }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
-    }, {
-        "title": "ASA with FP services"
-    }, {
-        "title": "Firepower Threat Defence"
-    }, {
-        "title": "Cisco Security REST API"
-    }],
-    "files": [{
-        "file": "1.md",
-        "title":"FMC - REST - API - 107"
-    }, {
-        "title": "Access Control Policy Default Action",
-        "file": "2.md"
-    }, {
-        "title": "FMC REST API Policies",
-        "file": "3.md"
-      }],
+    "tags": [
+      {"title": "Firepower Management Center"},
+      {"title": "Firepower"},
+      {"title": "FMC"},
+      {"title": "Security"},
+      {"title": "Firewalls"},
+      {"title": "FTD"},
+      {"title": "NGFW"},
+      {"title": "NGIPS"},
+      {"title": "ASA with FP services"},
+      {"title": "Firepower Threat Defence"},
+      {"title": "Cisco Security REST API"}
+    ],
+    "files": [
+      {"file": "0.md",
+      "title": "Introduction"},
+      {"file": "1.md",
+      "title": "What are access control policies?"},
+      {"file": "2.md",
+      "title": "Access control policy default action"},
+      {"file": "3.md",
+      "title": "Access control policy inheritance"},
+      {"file": "4.md",
+      "title": "Performing access policy operations with the REST API"}
+    ],
     "related": [{
         "labId": "fmc-restapi-102",
         "title": "FMC - REST - API - 102"
