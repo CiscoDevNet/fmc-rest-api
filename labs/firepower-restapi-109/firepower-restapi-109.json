@@ -18,7 +18,7 @@
     ],
     "files": [
       {"title": "Introduction",
-        "file": "0.md"}
+        "file": "0.md"},
       {"title": "Creating a threat-centric AC policy using the FMC API Explorer",
         "file": "1.md"},
       {"title": "Creating access control rules",
