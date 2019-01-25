@@ -28,10 +28,18 @@
       {"file": "4.md",
       "title": "Performing access policy operations with the REST API"}
     ],
-    "related": [{
-        "labId": "fmc-restapi-102",
-        "title": "FMC - REST - API - 102"
-    }],
+    "related": [
+      {"labId": "firepower-restapi-101",
+       "title": "Exploring Firepower Management Center (FMC) REST APIs"},
+      {"labId": "firepower-restapi-102",
+       "title": "Firepower Management Center (FMC) REST API token-based authentication"},
+      {"labId": "firepower-restapi-103",
+       "title": "Firewall devices and sensors and the Firepower Management Center (FMC)"},
+      {"labId": "firepower-restapi-106",
+       "title": "FMC objects and CRUD operations"},
+      {"labId": "firepower-restapi-109",
+       "title": "Threat-centric access control policies for the Firepower Management Center (FMC)"}
+      ],
     "authors": [{
         "name": "Krishan Veer",
         "email": "veer@cisco.com"
