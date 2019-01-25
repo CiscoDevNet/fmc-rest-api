@@ -17,7 +17,7 @@
     {"title": "Cisco Security REST API"}],
     "files": [
       {"title": "Introduction",
-       "file": "0.md"}
+        "file": "0.md"},
       {"title": "Overview of adding NGIPS or NGFW sensors or devices to FMC",
         "file": "1.md"},
       {"title": "Adding FMC on the device or sensor",
