@@ -38,7 +38,7 @@
         {"labId": "firepower-restapi-106",
          "title": "FMC objects and CRUD operations"},
         {"labId": "firepower-restapi-107",
-         "title": "Firewall Management Center (FMC) access control policies"},
+         "title": "Firewall Management Center (FMC) access control policies"}
         ],
     "authors": [{
         "name": "Krishan Veer",
