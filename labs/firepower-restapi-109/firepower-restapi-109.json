@@ -1,47 +1,33 @@
 {
   "labId": "firepower-restapi-109",
-  "title": "FMC-REST-API-109: Creating a Threat Centric AC Policy using the FMC REST API",
-  "slug": "This lab gives intoduction to creating a Threat Centric AC Policy using the  Firepower Management Center (FMC) REST API using NGFW/FTD devices",
+  "title": "Threat-centric access control policies for the Firepower Management Center (FMC)",
+  "slug": "This Learning Lab teaches you how to create a threat-centric access control (AC) policy.",
   "time": "25",
-    "tags": [{
-        "title": "Firepower Management Center"
-    }, {
-        "title": "Firepower"
-    },
-    {
-        "title": "FMC"
-    },
-    {
-        "title": "Security"
-    },
-    {
-        "title": "Firewalls"
-    },{
-        "title": "FTD"
-    }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
-    }, {
-        "title": "ASA with FP services"
-    }, {
-        "title": "Firepower Threat Defence"
-    }, {
-        "title": "Cisco Security REST API"
-    }],
-    "files": [{
-        "title": "FMC REST API 109",
-        "file": "1.md"
-    }, {
-        "title": "Create rule which monitors connections to suspicious URL’s",
-        "file": "2.md"
-    },{
-        "title": "Here is the sample Python script to create threat centric AC policy",
-        "file": "3.md"
-    },{
-        "title": "Here is the sample Perl script to create threat centric AC policy",
-        "file": "4.md"
-    }],
+    "tags": [
+      {"title": "Firepower Management Center"},
+      {"title": "Firepower"},
+      {"title": "FMC"},
+      {"title": "Security"},
+      {"title": "Firewalls"},
+      {"title": "FTD"},
+      {"title": "NGFW"},
+      {"title": "NGIPS"},
+      {"title": "ASA with FP services"},
+      {"title": "Firepower Threat Defence"},
+      {"title": "Cisco Security REST API"}
+    ],
+    "files": [
+      {"title": "Introduction",
+        "file": "0.md"},
+      {"title": "Creating a threat-centric AC policy using the FMC API Explorer",
+        "file": "1.md"},
+      {"title": "Creating access control rules",
+        "file": "2.md"},
+      {"title": "Sample Python script to create threat-centric AC policy",
+        "file": "3.md"},
+      {"title": "Sample Perl script to create threat-centric AC policy",
+        "file": "4.md"}
+      ],
     "related": [{
         "labId": "fmc-restapi-107",
         "title": "fmc-restapi-107"
