@@ -1,51 +1,43 @@
 {
     "labId": "firepower-restapi-102",
     "title": "Firepower Management Center (FMC) REST API token-based authentication",
-    "slug": "This learning lab teaches the basics of the FMC token-based authentication",
+    "slug": "This learning lab teaches the basics of token-based authentication on FMC.",
     "time": "15",
-    "tags": [{
-        "title": "Firepower Management Center"
-    }, {
-        "title": "Firepower"
-    },
-    {
-        "title": "FMC"
-    },
-    {
-        "title": "Security"
-    },
-    {
-        "title": "Firewalls"
-    },{
-        "title": "FTD"
-    }, {
-        "title": "NGFW"
-    }, {
-        "title": "NGIPS"
-    }, {
-        "title": "ASA with FP services"
-    }, {
-        "title": "Firepower Threat Defense"
-    }, {
-        "title": "Cisco Security REST API"
-    }],
-    "files": [{
-        "title": "Firepower Management Center (FMC) REST API authentication tokens",
-        "file": "1.md"
-    }, {
-        "title": "Requesting a FMC REST API authentication token with Postman",
-        "file": "2.md"
-    }, {
-        "title": "Refreshing a FMC REST API authentication token",
-        "file": "3.md"
-    }],
-    "related": [{
-        "labId": "firepower-restapi-103",
-        "title": "FMC REST API Lab 3"
-    }, {
-        "labId": "firepower-restapi-101",
-        "title": "FMC REST API Lab 1"
-    }],
+    "tags": [
+      {"title": "Firepower Management Center"},
+      {"title": "Firepower"},
+      {"title": "FMC"},
+      {"title": "Security"},
+      {"title": "Firewalls"},
+      {"title": "FTD"},
+      {"title": "NGFW"},
+      {"title": "NGIPS"},
+      {"title": "ASA with FP services"},
+      {"title": "Firepower Threat Defense"},
+      {"title": "Cisco Security REST API"}
+    ],
+    "files": [
+      {"title": "Introduction",
+       "file": "0.md"},
+      {"title": "Firepower Management Center (FMC) REST API authentication tokens",
+        "file": "1.md"},
+      {"title": "Requesting a FMC REST API authentication token with Postman",
+        "file": "2.md"},
+      {"title": "Refreshing a FMC REST API authentication token",
+        "file": "3.md"}
+      ],
+      "related": [
+        {"labId": "firepower-restapi-101",
+         "title": "Exploring Firepower Management Center (FMC) REST APIs"},
+        {"labId": "firepower-restapi-103",
+         "title": "Firewall devices and sensors and the Firepower Management Center (FMC)"},
+        {"labId": "firepower-restapi-106",
+         "title": "FMC objects and CRUD operations"},
+        {"labId": "firepower-restapi-107",
+         "title": "Firewall Management Center (FMC) access control policies"},
+        {"labId": "firepower-restapi-109",
+         "title": "Threat-centric access control policies for the Firepower Management Center (FMC)"}
+        ],
     "authors": [{
         "name": "Krishan Veer",
         "email": "veer@cisco.com"
