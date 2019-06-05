@@ -33,7 +33,7 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC REST API 110",
+        "title": "Using the Event Streamer API to identify a potentially compromised host",
         "file": "1.md"
     }, {
         "title": "Sample script to analyze events associated with a potential host compromise",

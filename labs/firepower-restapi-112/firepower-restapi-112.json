@@ -30,7 +30,7 @@
         "title": "Cisco Security REST API"
     }],
     "files": [{
-        "title": "FMC REST API 112",
+        "title": "Introduction to Firepower Management Center (FMC) API CRUD operations",
         "file": "1.md"
     }, {
         "title": "Update operation PUT",
