@@ -1,7 +1,7 @@
 {
     "labId": "firepower-restapi-104",
-    "title": "FMC-REST-API-104: FMC REST API request and response structures and error codes",
-    "slug": "The purpose of this learning lab is to build basic understanding on the FMC REST API request & response structures and understand error codes.",
+    "title": "FMC REST API request and response structures and error codes",
+    "slug": "The purpose of this Learning Lab is to build a basic understanding of the FMC REST API request and response structures and understand error codes.",
     "time": "15",
     "tags": [{
         "title": "Firepower Management Center"
