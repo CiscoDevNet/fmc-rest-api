@@ -1,7 +1,7 @@
 {
     "labId": "firepower-restapi-112",
-    "title": "FMC-REST-API-112: Introduction to Firepower Management Center (FMC) API CRUD operations",
-    "slug": "This lab gives intoduction to Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC",
+    "title": "Introduction to Firepower Management Center (FMC) API CRUD operations",
+    "slug": "This Lab gives an introduction to Firepower Management Center (FMC) REST APIs. These APIs automates the management of Firepower Threat Defense (FTD) and Legacy Firepower devices via FMC.",
     "time": "25",
     "tags": [{
         "title": "Firepower Management Center"
