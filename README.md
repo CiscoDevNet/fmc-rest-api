@@ -8,7 +8,7 @@ Contributions are welcome, and we are glad to review changes through pull reques
 
 Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system. 
 
-The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
+The goal of these Learning Labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
 
 ## About these Learning Labs
 
@@ -27,9 +27,9 @@ To create and publish a new lab, take the following steps:
 - Create a JSON file with the same name as the `labs/`_folder_ name.
 - Create markdown files named 1.md, 2.md, and so on; refer to those files in the `labs/`_folder_ JSON file.
 - Ensure that the JSON file contains appropriate page titles and file references.
-- Send a pull request to get the files committed and merged to `master` by a DevNet reviewer.
+- Send a pull request to get the files committed and merged to the default branch by a DevNet reviewer.
 
-A DevNet reviewer then creates a release on the repository with the latest `master` and publishes through the admin interface.
+A DevNet reviewer then creates a release on the repository with the latest changes and publishes through the admin interface.
 
 #### Editors
 
