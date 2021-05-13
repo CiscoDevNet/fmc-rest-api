@@ -14,6 +14,10 @@ The goal of these Learning Labs is to ensure a 'hands-on' learning approach rath
 
 Explores basic analysis of threats and compromised hosts.
 
+## Preview Learning Lab Markdown locally
+
+Refer to the instruction for your text editor for Markdown previewing. For example, [Markdown and Visual Studio Code](https://code.visualstudio.com/Docs/languages/markdown) describes how to configure Markdown extensions. 
+
 ## Contributing
 
 These learning modules are for public consumption, so you must ensure that you have the rights to any content that you contribute.
